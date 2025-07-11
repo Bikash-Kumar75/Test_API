@@ -19,8 +19,8 @@ const data = [
         system_id: 37,
         name: "T2 Substation Area",
         code_name: "ahmedabad-c",
-        thumbnail: "https://smile-ai-test.s3.ap-south-1.amazonaws.com/video-archive/ahmedabad-c/2025-07-09/ahmedabad-c-1752043976_09072025_065256.mp4",
-        url: "https://smile-ai-test.s3.ap-south-1.amazonaws.com/video-archive/ahmedabad-c/2025-07-09/ahmedabad-c-1752043976_09072025_065256.mp4",
+        thumbnail: "",
+        url: "",
         status: "inactive"
     },
     {
