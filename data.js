@@ -27,8 +27,8 @@ const data = [
         system_id: 38,
         name: "Fuel Farm",
         code_name: "ahmedabad-x",
-        thumbnail: "https://smile-ai-test.s3.ap-south-1.amazonaws.com/video-archive/ahmedabad-x/2025-07-09/ahmedabad-x-1752039565_09072025_053925.mp4",
-        url: "https://smile-ai-test.s3.ap-south-1.amazonaws.com/video-archive/ahmedabad-x/2025-07-09/ahmedabad-x-1752039565_09072025_053925.mp4",
+        thumbnail: "https://smile-ai-test.s3.ap-south-1.amazonaws.com/video-archive/ahmedabad-x/2025-07-09/ahmedabad-x-1752059402_09072025_111002.mp4",
+        url: "https://smile-ai-test.s3.ap-south-1.amazonaws.com/video-archive/ahmedabad-x/2025-07-09/ahmedabad-x-1752059402_09072025_111002.mp4",
         status: "active"
     },
     {
