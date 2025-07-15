@@ -43,9 +43,9 @@ const data = [
         system_id: 75,
         name: "CSD - West Side",
         code_name: "ahmedabad-s",
-        thumbnail: "https://smile-ai-test.s3.ap-south-1.amazonaws.com/video-archive/ahmedabad-s/2025-07-09/ahmedabad-s-1752044648_09072025_070408.mp4",
-        url: "https://smile-ai-test.s3.ap-south-1.amazonaws.com/video-archive/ahmedabad-s/2025-07-09/ahmedabad-s-1752044648_09072025_070408.mp4",
-        status: "active"
+        thumbnail: "Camera Not Working",
+        url: "https://img.freepik.com/free-vector/error-404-concept-landing-page_52683-20650.jpg?t=st=1752247427~exp=1752251027~hmac=ea69432c4bd9e1a6869fd43ece731b18fbf7d0afa7429e1443726bcb3d442666&w=2000",
+        status: "inactive"
     },
     {
         system_id: 76,

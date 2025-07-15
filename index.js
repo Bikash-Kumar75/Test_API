@@ -1,10 +1,10 @@
 import express from "express";
-import cors from "cors"; // ✅ import cors
+import cors from "cors"; // import cors
 import data from "./data.js";
 
 const app = express();
 
-// ✅ Enable CORS for your frontend origin
+// Enable CORS for your frontend origin
 app.use(cors({
     origin: "http://localhost:5173"
 }));
